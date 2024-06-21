@@ -1,0 +1,32 @@
+[
+  {
+    "name": "reena",
+    "email": "abc.com",
+    "Phone_num": "123",
+    "GithubLink": "https//reena/github"
+  },
+  {
+    "name": "Sachin",
+    "email": "def.com",
+    "Phone_num": "12345",
+    "GithubLink": "abcxyz"
+  },
+  {
+    "name": "Praveen",
+    "email": "pd@gmail.com",
+    "Phone_num": "110116536",
+    "GithubLink": "abc.com"
+  },
+  {
+    "name": "abc",
+    "email": "123",
+    "Phone_num": "12345",
+    "GithubLink": "deft"
+  },
+  {
+    "name": "abcxyz",
+    "email": "abc.com",
+    "Phone_num": "12345678",
+    "GithubLink": "ghty"
+  }
+]
